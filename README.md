@@ -18,6 +18,6 @@ Hardware: Arduino Uno R3, R307 Fingerprint Sensor, HC-05 Bluetooth Module, MFRC5
 
 Software: Arduino IDE (Board: Arduino Uno), Arduino Bluetooth Controller (by Giristudio).
 
-The main code of the project is the 'Smart_Door_Lock_Fingerprint.ino', kindly access it for an overview. The other file will be the sub-functions which has been merged into the main code.
+The main code of the project is the 'Smart_Door_Lock_System_Main.ino', kindly access it for an overview. The other file will be the sub-functions which has been merged into the main code.
 
 I hope you like the project. Thank You!
