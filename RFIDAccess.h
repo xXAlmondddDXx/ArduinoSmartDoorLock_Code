@@ -1,6 +1,7 @@
 // This source file contains the actual code for the RFID Access program.
 // RFID MFRC522
 // Take note that the tag UID is case sensitive and space sensitive.
+// Replace the RFID UID according to your settings.
 
 #ifndef RFID_ACCESS_H
 #define RFID_ACCESS_H
