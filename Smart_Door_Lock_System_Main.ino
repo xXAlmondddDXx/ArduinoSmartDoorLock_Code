@@ -1,29 +1,16 @@
 /***************************************************************************
 Author: Chen Yu Wei (T00228555)
-Subject: Capstone Project | FYP
-Title: Arduino Smart Door Lock System
+Subject: Final Year Capstone Project
+Title: Smart Door Lock System
 Programme: Manufacturing and Mechanical Engineering
 Institution: Munster Technological University
 
-Original by Limor Fried/Ladyada for Adafruit Industries
-Modified by Chen Yu Wei, For Final Year Capstone Project
-
-Hardware: Arduino Uno R3, HC-05, HC-SR04, RTC DS3231, Micro SD Card Adapter,
+Hardware: Arduino Uno R4, HC-05, HC-SR04, RTC DS3231, Micro SD Card Adapter,
           RFID MFRC522, Solenoid Lock, 5V Relay, LCD1602I2C, PiezoBuzzer,
           LEDs.
 
-Software: Arduino IDE, MIT App Inventor, Arduino Bluetooth Controller (Giristudio)
+Software: Arduino IDE, Self Designed App via MIT App Inventor
 ***************************************************************************/
-
-/*
-For UNO and others without hardware serial, we must use software serial
-Pin #2 is IN from sensor (TXD)
-Pin #3 is OUT from arduino (RXD))
-
-For Bluetooth module replace your access command at .cpp file under [if readString == ""].
-For RFID module replace your card/tag UID at .h file under [validTag = ""].
-For Ultrasonic sensor replace your sensing distance at .cpp file under [float distance = (duration*sp of sound)/2].
-*/
 
 // --- Includes library ---
 #include <Adafruit_Fingerprint.h>
