@@ -1,5 +1,6 @@
 // This source file contains the actual code for the Bluetooth module program.
 // HC-05 Bluetooth Module
+// Modify the Bluetooth command according to your settings.
 
 #ifndef BLUETOOTH_CONTROL_H
 #define BLUETOOTH_CONTROL_H
