@@ -1,5 +1,6 @@
 // This source file contains the actual code for the SD card data logging program.
 // RTC DS3231, Mirco SD Card Adapter
+// The Log File is saved as ISO8601 week number format, E.g. '2025W30'.
 
 #ifndef EVENT_LOG_H
 #define EVENT_LOG_H
