@@ -1,5 +1,6 @@
 // This source file contains the actual code for the Door Status Detection program.
 // HC-SR04 Ultrasonic Sensor
+// Adjust the distance and maximum allowance time according to your settings.
 
 #ifndef DOOR_STATUS_H
 #define DOOR_STATUS_H
