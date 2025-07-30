@@ -68,9 +68,9 @@ void btCommands(LiquidCrystal_I2C &lcd) {
       lcd.clear();
       lcd.setCursor(0,0); lcd.print(F("Visitor Portal:"));
       lcd.setCursor(0,1); lcd.print(F("Opened"));
-      logEvent("Visitor portal open via app");
       lcdTransition = true;
       displayTime = millis();
+      logEvent("Visitor portal open via app");
       tempAccess = true;
 
     } else if (cmd.equalsIgnoreCase("close temporary access")) {
@@ -80,9 +80,9 @@ void btCommands(LiquidCrystal_I2C &lcd) {
       lcd.clear();
       lcd.setCursor(0,0); lcd.print(F("Visitor Portal:"));
       lcd.setCursor(0,1); lcd.print(F("Closed"));
-      logEvent("Visitor portal close via Bluetooth");
       lcdTransition = true;
       displayTime = millis();
+      logEvent("Visitor portal close via Bluetooth");
       tempAccess = false;
 
     } else if (cmd.equalsIgnoreCase("reset")) {
@@ -92,9 +92,9 @@ void btCommands(LiquidCrystal_I2C &lcd) {
       lcd.clear();
       lcd.setCursor(0,0); lcd.print(F("Reseting"));
       lcd.setCursor(0,1); lcd.print(F("System..."));
-      logEvent("System being reset");
       lcdTransition = true;
       displayTime = millis();
+      logEvent("System being reset");
 
       fingerAttempt = 0;
       rfidAttempt = 0;
