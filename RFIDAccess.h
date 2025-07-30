@@ -19,6 +19,8 @@ extern SoftwareSerial btSerial;
 extern void unlockDoor();
 extern void doorAlarm();
 extern bool reqTempAccess();
+extern bool lcdTransition;
+extern unsigned long transDisplayTime;
 extern void logEvent(String event);
 
 const char masterTag[] PROGMEM  = " 73 47 1D 95"; // Replace your card UID here
@@ -86,6 +88,8 @@ void checkRFID(LiquidCrystal_I2C &lcd) {
     lcd.clear();
     lcd.setCursor(0,0); lcd.print(F("RFID:"));
     lcd.setCursor(0,1); lcd.print(F("Access Denied!"));
+    lcdTransition = true;
+    transDisplayTime = millis();
     logEvent("RFID Access: Denied");
 
     rfidAttempt++;
