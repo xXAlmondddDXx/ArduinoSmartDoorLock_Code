@@ -22,7 +22,7 @@ I hope you like the project. Thank You!
 
 ================================================================================
 
-(MIT App Inventor Interface)
+**Smart Door Lock Control Interface**
 
 ![WhatsApp Image 2025-07-31 at 08 01 06_3e48c1d0](https://github.com/user-attachments/assets/71b9e38d-781f-4c94-81c8-134c15061af7)
 
