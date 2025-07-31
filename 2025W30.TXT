@@ -1,0 +1,337 @@
+21-07-25 04:50:53 - Door left open too long
+21-07-25 04:50:53 - Alarm triggered!
+21-07-25 04:50:57 - RFID Access: Granted | Master
+21-07-25 04:54:47 - Door left open too long
+21-07-25 04:54:47 - Alarm triggered!
+21-07-25 04:55:00 - Door left open too long
+21-07-25 04:55:00 - Alarm triggered!
+21-07-25 05:23:39 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 05:23:47 - Door Status Detection: reactivated
+21-07-25 05:23:53 - Visitor portal open via app
+21-07-25 05:23:57 - Visitor portal close via Bluetooth
+21-07-25 05:28:59 - System being reset
+21-07-25 05:29:07 - System being reset
+21-07-25 05:29:15 - System being reset
+21-07-25 05:29:25 - System being reset
+21-07-25 05:29:58 - System being reset
+21-07-25 05:30:21 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 05:30:28 - System being reset
+21-07-25 05:30:46 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 05:31:04 - Door Status Detection: reactivated
+21-07-25 05:31:12 - Visitor portal open via app
+21-07-25 05:31:16 - Visitor portal close via Bluetooth
+21-07-25 05:32:14 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 05:32:21 - Door Status Detection: reactivated
+21-07-25 05:32:26 - Visitor portal open via app
+21-07-25 05:32:29 - Visitor portal close via Bluetooth
+21-07-25 05:32:35 - System being reset
+21-07-25 05:35:36 - System being reset
+21-07-25 05:36:39 - System being reset
+21-07-25 05:36:47 - System being reset
+21-07-25 05:36:57 - System being reset
+21-07-25 05:38:10 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 05:38:21 - Door Status Detection: reactivated
+21-07-25 05:38:32 - Visitor portal open via app
+21-07-25 05:38:41 - Visitor portal close via Bluetooth
+21-07-25 05:38:51 - System being reset
+21-07-25 05:39:13 - System being reset
+21-07-25 05:40:43 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 05:40:48 - Door Status Detection: reactivated
+21-07-25 05:40:51 - Visitor portal open via app
+21-07-25 05:40:57 - Visitor portal close via Bluetooth
+21-07-25 06:50:32 - RFID Access: Granted | Master
+21-07-25 06:51:49 - RFID Access: Granted | Master
+21-07-25 06:51:57 - RFID Access: Granted | Master
+21-07-25 06:52:47 - RFID Access: Granted | Master
+21-07-25 06:53:00 - Fingerprint Access Granted: ID #
+21-07-25 06:53:45 - Fingerprint Access: Denied.
+21-07-25 06:53:50 - Fingerprint Access: Denied.
+21-07-25 06:53:53 - Fingerprint Access: Denied.
+21-07-25 06:53:56 - Fingerprint Access: Denied.
+21-07-25 06:53:56 - Alarm triggered!
+21-07-25 06:54:04 - RFID Access: Granted | Master
+21-07-25 06:54:17 - RFID Access: Denied
+21-07-25 06:54:21 - RFID Access: Denied
+21-07-25 06:54:27 - RFID Access: Denied
+21-07-25 06:54:30 - RFID Access: Denied
+21-07-25 06:54:30 - RFID Access: Denied
+21-07-25 06:54:30 - Alarm triggered!
+21-07-25 06:54:34 - RFID Access: Granted | Master
+21-07-25 06:55:04 - Door left open too long
+21-07-25 06:55:04 - Alarm triggered!
+21-07-25 06:55:29 - RFID Access: Granted | Master
+21-07-25 06:55:53 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 06:56:05 - Door Status Detection: reactivated
+21-07-25 06:56:13 - Visitor portal open via app
+21-07-25 06:56:20 - RFID Access: Granted | Visitor
+21-07-25 06:56:31 - RFID Access: Granted | Master
+21-07-25 06:56:38 - Visitor portal close via Bluetooth
+21-07-25 06:56:47 - RFID Access: Denied
+21-07-25 06:56:51 - RFID Access: Granted | Master
+21-07-25 06:57:04 - System being reset
+21-07-25 06:57:46 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 06:58:02 - Door Status Detection: reactivated
+21-07-25 06:58:11 - Visitor portal open via app
+21-07-25 06:58:23 - Visitor portal close via Bluetooth
+21-07-25 06:58:34 - System being reset
+21-07-25 06:59:55 - System intrusion detected!
+21-07-25 06:59:55 - Alarm triggered!
+21-07-25 07:00:13 - System intrusion detected!
+21-07-25 07:00:13 - Alarm triggered!
+23-07-25 02:21:05 - RFID Access: Granted | Master
+23-07-25 02:24:56 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:25:03 - Door Status Detection: reactivated
+23-07-25 02:25:11 - Visitor portal open via app
+23-07-25 02:25:19 - Visitor portal close via Bluetooth
+23-07-25 02:25:30 - Door left open too long
+23-07-25 02:25:30 - Alarm triggered!
+23-07-25 02:34:13 - RFID Access: Granted | Master
+23-07-25 02:34:26 - Door left open too long
+23-07-25 02:34:26 - Alarm triggered!
+23-07-25 02:35:10 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:35:21 - Door Status Detection: reactivated
+23-07-25 02:35:30 - Visitor portal open via app
+23-07-25 02:35:37 - Visitor portal close via Bluetooth
+23-07-25 02:37:20 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:37:28 - Door Status Detection: reactivated
+23-07-25 02:37:35 - Visitor portal open via app
+23-07-25 02:37:41 - Visitor portal close via Bluetooth
+23-07-25 02:39:56 - System intrusion detected!
+23-07-25 02:39:56 - Alarm triggered!
+23-07-25 02:40:14 - Door left open too long
+23-07-25 02:40:14 - Alarm triggered!
+23-07-25 02:40:17 - RFID Access: Granted | Master
+23-07-25 02:40:31 - Door left open too long
+23-07-25 02:40:31 - Alarm triggered!
+23-07-25 02:40:33 - RFID Access: Granted | Master
+23-07-25 02:40:40 - System intrusion detected!
+23-07-25 02:40:40 - Alarm triggered!
+23-07-25 02:40:43 - RFID Access: Granted | Master
+23-07-25 02:41:03 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:42:05 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:42:10 - Door Status Detection: reactivated
+23-07-25 02:42:15 - Visitor portal open via app
+23-07-25 02:43:00 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:43:07 - Door Status Detection: reactivated
+23-07-25 02:43:13 - Visitor portal open via app
+23-07-25 02:43:19 - Visitor portal close via Bluetooth
+23-07-25 02:43:42 - Manually unlock via app | Door Status Detection: deactivated
+23-07-25 02:43:53 - Door Status Detection: reactivated
+23-07-25 02:44:02 - Visitor portal open via app
+23-07-25 02:44:10 - Visitor portal close via Bluetooth
+23-07-25 02:44:43 - System being reset
+23-07-25 02:45:00 - System intrusion detected!
+23-07-25 02:45:00 - Alarm triggered!
+21-07-25 07:14:15 - RFID Access: Granted | Master
+21-07-25 07:14:25 - RFID Access: Granted | Master
+21-07-25 07:26:17 - RFID Access: Granted | Master
+21-07-25 07:59:44 - RFID Access: Granted | Master
+21-07-25 07:59:50 - RFID Access: Granted | Master
+21-07-25 07:59:55 - RFID Access: Granted | Master
+21-07-25 08:00:03 - Fingerprint Access: Denied.
+21-07-25 08:00:04 - Fingerprint Access: Denied.
+21-07-25 08:00:09 - Fingerprint Access: Denied.
+21-07-25 08:00:10 - Fingerprint Access: Denied.
+21-07-25 08:00:11 - Alarm triggered!
+21-07-25 08:00:12 - Fingerprint Access: Denied.
+21-07-25 08:00:14 - Fingerprint Access: Denied.
+21-07-25 08:00:16 - Fingerprint Access: Denied.
+21-07-25 08:00:17 - Fingerprint Access: Denied.
+21-07-25 08:00:19 - Fingerprint Access Granted: ID #1
+21-07-25 08:00:26 - RFID Access: Granted | Master
+21-07-25 08:00:33 - RFID Access: Granted | Master
+21-07-25 08:00:40 - RFID Access: Granted | Master
+21-07-25 08:00:45 - RFID Access: Granted | Master
+21-07-25 08:00:51 - Fingerprint Access: Denied.
+21-07-25 08:00:52 - Fingerprint Access: Denied.
+21-07-25 08:00:54 - Fingerprint Access Granted: ID #1
+21-07-25 08:01:50 - RFID Access: Granted | Master
+21-07-25 08:02:38 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 08:02:46 - Door Status Detection: reactivated
+21-07-25 08:02:59 - Visitor portal open via app
+21-07-25 08:03:05 - RFID Access: Granted | Master
+21-07-25 08:03:25 - RFID Access: Granted | Visitor
+21-07-25 08:03:32 - Visitor portal close via Bluetooth
+21-07-25 08:03:36 - RFID Access: Denied
+21-07-25 08:03:50 - RFID Access: Denied
+21-07-25 08:03:54 - RFID Access: Denied
+21-07-25 08:03:57 - RFID Access: Denied
+21-07-25 08:03:57 - RFID Access: Denied
+21-07-25 08:03:57 - Alarm triggered!
+21-07-25 08:04:03 - RFID Access: Granted | Master
+21-07-25 08:04:18 - Door left open too long
+21-07-25 08:04:18 - Alarm triggered!
+21-07-25 08:04:21 - RFID Access: Granted | Master
+21-07-25 08:04:35 - Door left open too long
+21-07-25 08:04:35 - Alarm triggered!
+21-07-25 08:05:00 - Fingerprint Access: Denied.
+21-07-25 08:05:04 - Fingerprint Access: Denied.
+21-07-25 08:05:06 - Fingerprint Access: Denied.
+21-07-25 08:05:08 - Fingerprint Access: Denied.
+21-07-25 08:05:08 - Alarm triggered!
+21-07-25 08:05:15 - Fingerprint Access Granted: ID #1
+21-07-25 08:05:52 - System being reset
+21-07-25 08:06:23 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 08:06:33 - Door Status Detection: reactivated
+21-07-25 08:06:45 - Visitor portal open via app
+21-07-25 08:06:50 - RFID Access: Granted | Visitor
+21-07-25 08:06:55 - Visitor portal close via Bluetooth
+21-07-25 08:07:00 - Visitor portal open via app
+21-07-25 08:07:10 - Visitor portal close via Bluetooth
+21-07-25 08:07:14 - RFID Access: Denied
+21-07-25 08:07:27 - System being reset
+21-07-25 08:12:59 - RFID Access: Granted | Master
+21-07-25 08:14:38 - RFID Access: Granted | Master
+21-07-25 08:14:45 - RFID Access: Granted | Master
+21-07-25 08:14:51 - RFID Access: Granted | Master
+21-07-25 08:14:58 - RFID Access: Granted | Master
+21-07-25 08:15:37 - RFID Access: Granted | Master
+21-07-25 08:15:57 - RFID Access: Granted | Master
+21-07-25 08:16:02 - RFID Access: Granted | Master
+21-07-25 08:16:06 - RFID Access: Granted | Master
+21-07-25 08:16:12 - RFID Access: Granted | Master
+21-07-25 07:14:19 - RFID Access: Granted | Master
+21-07-25 07:14:25 - RFID Access: Granted | Master
+21-07-25 07:14:34 - RFID Access: Granted | Master
+21-07-25 07:14:48 - RFID Access: Granted | Master
+21-07-25 07:15:01 - RFID Access: Granted | Master
+21-07-25 07:15:07 - RFID Access: Granted | Master
+21-07-25 07:18:32 - Door left open too long
+21-07-25 07:18:32 - Alarm triggered!
+21-07-25 07:41:14 - RFID Access: Granted | Master
+21-07-25 07:41:24 - Fingerprint Access: Denied.
+21-07-25 07:41:27 - Door left open too long
+21-07-25 07:41:27 - Alarm triggered!
+21-07-25 07:41:38 - Fingerprint Access: Denied.
+21-07-25 07:41:44 - Fingerprint Access: Denied.
+21-07-25 07:41:48 - Fingerprint Access: Denied.
+21-07-25 07:41:48 - Alarm triggered!
+21-07-25 07:41:51 - RFID Access: Granted | Master
+21-07-25 07:41:58 - Fingerprint Access: Denied.
+21-07-25 07:42:02 - Fingerprint Access: Denied.
+21-07-25 07:42:05 - Fingerprint Access Granted: ID #1
+21-07-25 07:42:12 - RFID Access: Denied
+21-07-25 07:42:15 - RFID Access: Denied
+21-07-25 07:42:18 - RFID Access: Denied
+21-07-25 07:42:22 - RFID Access: Denied
+21-07-25 07:42:22 - RFID Access: Denied
+21-07-25 07:42:22 - Alarm triggered!
+21-07-25 07:42:26 - RFID Access: Granted | Master
+21-07-25 07:42:35 - Fingerprint Access: Denied.
+21-07-25 07:43:07 - Fingerprint Access: Denied.
+21-07-25 07:43:11 - Fingerprint Access: Denied.
+21-07-25 07:43:20 - Fingerprint Access: Denied.
+21-07-25 07:43:20 - Alarm triggered!
+21-07-25 07:43:23 - RFID Access: Granted | Master
+21-07-25 07:45:09 - RFID Access: Granted | Master
+21-07-25 07:45:21 - RFID Access: Granted | Master
+21-07-25 07:45:31 - RFID Access: Granted | Master
+21-07-25 07:45:35 - RFID Access: Granted | Master
+21-07-25 07:45:43 - RFID Access: Granted | Master
+21-07-25 07:46:41 - RFID Access: Granted | Master
+21-07-25 07:46:45 - RFID Access: Granted | Master
+21-07-25 07:46:49 - RFID Access: Granted | Master
+21-07-25 09:39:55 - RFID Access: Granted | Master
+21-07-25 09:40:01 - RFID Access: Granted | Master
+21-07-25 09:40:35 - System intrusion detected!
+21-07-25 09:40:35 - Alarm triggered!
+21-07-25 09:41:02 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 09:41:12 - Door Status Detection: reactivated
+21-07-25 09:41:14 - Visitor portal open via app
+21-07-25 09:41:17 - RFID Access: Granted | Visitor
+21-07-25 09:41:24 - RFID Access: Granted | Visitor
+21-07-25 09:41:29 - RFID Access: Granted | Master
+21-07-25 09:41:42 - RFID Access: Granted | Master
+21-07-25 09:41:47 - RFID Access: Granted | Master
+21-07-25 09:42:13 - RFID Access: Granted | Master
+21-07-25 09:42:20 - RFID Access: Granted | Visitor
+21-07-25 09:42:27 - RFID Access: Granted | Visitor
+21-07-25 09:42:35 - RFID Access: Granted | Master
+21-07-25 09:42:41 - RFID Access: Granted | Master
+21-07-25 09:43:30 - RFID Access: Granted | Visitor
+21-07-25 09:43:34 - RFID Access: Granted | Master
+21-07-25 09:43:39 - RFID Access: Granted | Master
+21-07-25 09:43:48 - RFID Access: Granted | Master
+21-07-25 09:43:53 - RFID Access: Granted | Master
+21-07-25 09:43:57 - RFID Access: Granted | Master
+21-07-25 09:44:15 - System intrusion detected!
+21-07-25 09:44:15 - Alarm triggered!
+21-07-25 09:48:05 - RFID Access: Granted | Master
+21-07-25 09:49:28 - Door left open too long
+21-07-25 09:49:28 - Alarm triggered!
+21-07-25 09:50:03 - Door left open too long
+21-07-25 09:50:03 - Alarm triggered!
+21-07-25 09:51:12 - RFID Access: Granted | Master
+21-07-25 09:51:42 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 09:51:53 - Manually unlock via app | Door Status Detection: deactivated
+21-07-25 09:52:01 - RFID Access: Granted | Master
+21-07-25 09:52:25 - Door Status Detection: reactivated
+21-07-25 09:52:25 - Door left open too long
+21-07-25 09:52:25 - Alarm triggered!
+21-07-25 09:52:42 - Door left open too long
+21-07-25 09:52:42 - Alarm triggered!
+21-07-25 09:52:49 - RFID Access: Granted | Master
+21-07-25 09:55:22 - RFID Access: Granted | Master
+21-07-25 09:55:27 - RFID Access: Granted | Master
+21-07-25 09:55:32 - RFID Access: Granted | Master
+21-07-25 09:55:36 - RFID Access: Granted | Master
+21-07-25 09:55:41 - RFID Access: Granted | Master
+21-07-25 09:55:56 - RFID Access: Granted | Master
+21-07-25 09:56:03 - RFID Access: Granted | Master
+21-07-25 09:56:12 - RFID Access: Granted | Master
+21-07-25 09:56:16 - RFID Access: Granted | Master
+21-07-25 09:56:20 - RFID Access: Granted | Master
+21-07-25 09:56:24 - RFID Access: Granted | Master
+21-07-25 09:56:33 - RFID Access: Granted | Master
+21-07-25 09:56:41 - RFID Access: Granted | Master
+21-07-25 09:56:47 - RFID Access: Granted | Master
+21-07-25 09:56:53 - RFID Access: Granted | Master
+21-07-25 09:57:09 - RFID Access: Granted | Master
+21-07-25 09:57:14 - RFID Access: Granted | Master
+21-07-25 09:57:21 - RFID Access: Granted | Master
+21-07-25 09:57:26 - RFID Access: Granted | Master
+21-07-25 09:57:32 - RFID Access: Granted | Master
+21-07-25 09:57:38 - RFID Access: Granted | Master
+21-07-25 09:57:42 - RFID Access: Granted | Master
+21-07-25 09:57:46 - RFID Access: Granted | Master
+21-07-25 09:58:20 - RFID Access: Granted | Master
+21-07-25 09:58:25 - RFID Access: Granted | Master
+21-07-25 09:58:31 - RFID Access: Granted | Master
+21-07-25 09:58:47 - RFID Access: Granted | Master
+21-07-25 09:58:53 - RFID Access: Granted | Master
+21-07-25 09:59:02 - RFID Access: Granted | Master
+21-07-25 09:59:09 - RFID Access: Granted | Master
+21-07-25 09:59:38 - RFID Access: Granted | Master
+21-07-25 09:59:46 - RFID Access: Granted | Master
+21-07-25 09:59:55 - RFID Access: Granted | Master
+21-07-25 10:00:00 - RFID Access: Granted | Master
+21-07-25 10:00:04 - RFID Access: Granted | Master
+21-07-25 10:00:10 - RFID Access: Granted | Master
+21-07-25 10:00:17 - RFID Access: Granted | Master
+21-07-25 10:00:25 - RFID Access: Granted | Master
+21-07-25 10:00:33 - RFID Access: Granted | Master
+21-07-25 10:00:43 - RFID Access: Granted | Master
+21-07-25 10:00:58 - RFID Access: Granted | Master
+21-07-25 10:01:03 - RFID Access: Granted | Master
+21-07-25 10:01:08 - RFID Access: Granted | Master
+21-07-25 10:06:17 - RFID Access: Granted | Master
+21-07-25 10:06:22 - RFID Access: Granted | Master
+21-07-25 10:06:26 - RFID Access: Granted | Master
+21-07-25 10:06:42 - RFID Access: Granted | Master
+21-07-25 10:06:49 - RFID Access: Granted | Master
+21-07-25 10:06:54 - RFID Access: Granted | Master
+21-07-25 10:07:04 - RFID Access: Granted | Master
+21-07-25 10:07:16 - RFID Access: Granted | Master
+21-07-25 10:16:57 - RFID Access: Granted | Master
+21-07-25 10:17:05 - RFID Access: Granted | Master
+21-07-25 10:17:18 - RFID Access: Granted | Master
+21-07-25 10:17:26 - RFID Access: Granted | Master
+21-07-25 10:17:34 - RFID Access: Granted | Master
+21-07-25 10:17:40 - RFID Access: Granted | Master
+21-07-25 10:17:48 - RFID Access: Granted | Master
+21-07-25 10:17:53 - RFID Access: Granted | Master
+21-07-25 10:19:09 - RFID Access: Granted | Master
+21-07-25 10:19:19 - RFID Access: Granted | Master
+21-07-25 10:19:45 - RFID Access: Granted | Master
+21-07-25 10:19:50 - RFID Access: Granted | Master
+21-07-25 10:19:56 - RFID Access: Granted | Master
