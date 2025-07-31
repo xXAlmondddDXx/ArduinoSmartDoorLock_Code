@@ -19,3 +19,9 @@ Software: Arduino IDE (Board: Arduino Uno R4), Self Designed App via MIT App Inv
 The main code of the project is the 'Smart_Door_Lock_System_Main.ino', kindly access it for an overview. The other file will be the sub-functions which has been merged into the main code.
 
 I hope you like the project. Thank You!
+
+================================================================================
+
+(MIT App Inventor Interface)
+![WhatsApp Image 2025-07-31 at 08 01 06_3e48c1d0](https://github.com/user-attachments/assets/71b9e38d-781f-4c94-81c8-134c15061af7)
+
