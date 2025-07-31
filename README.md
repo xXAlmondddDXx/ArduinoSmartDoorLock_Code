@@ -26,3 +26,7 @@ I hope you like the project. Thank You!
 
 ![WhatsApp Image 2025-07-31 at 08 01 06_3e48c1d0](https://github.com/user-attachments/assets/71b9e38d-781f-4c94-81c8-134c15061af7)
 
+================================================================================
+
+**Event Logging - .txt**
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/fcd1a0ce-1d61-4f32-bf29-768d732121fc" />
