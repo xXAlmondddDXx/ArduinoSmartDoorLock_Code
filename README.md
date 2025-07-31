@@ -8,7 +8,7 @@ Programme: BSc in Mechanical & Manufacturing Engineering
 
 Institution: Munster Technological University
 
-===========================================================================
+================================================================================
 
 The Smart Door Lock system comprises features such as fingerprint authentication, wireless control (Bluetooth), RFID system, event logging, door status detection, alarm system, and LED signal light. Integrate with designed mobile application through MIT App Inventor for access control flexibility.
 
