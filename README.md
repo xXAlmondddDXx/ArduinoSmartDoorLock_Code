@@ -36,5 +36,6 @@ I hope you like the project. Thank You!
 
 • Door access event logging for security monitoring and threat detection purposes.
 
-• The event logging data is saved in ".txt" file format and a weekly bassis ("
+• The event logging data is saved in ".txt" file format and a weekly bassis ("2025W30").
+
 <img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/fcd1a0ce-1d61-4f32-bf29-768d732121fc" />
